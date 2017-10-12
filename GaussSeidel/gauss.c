@@ -16,8 +16,8 @@ int main(void)
 	fp = fopen("gauss_dataset.txt", "r");
 
 	if(fp == NULL){
-		printf("Can not find textfile");
-		return;
+		printf("Can not find textfile\n");
+		return 0;
 	}
 	int n[2]={};	
 	float *x;
@@ -25,7 +25,11 @@ int main(void)
 	for(i=0; i<2; i++){
 		fgets(buffer, 255, fp);
 		sscanf(buffer, "%d", &n[i]);
-	}
+		if(n[i] < 1 || n[i] > 10){
+			printf("行列は1*1 ~ 10*10行列にて定義すること\n");
+			return 0;
+		}
+	}	
 
 	a = (float **)malloc(sizeof(float *) * n[0]);
 	b = (float *)malloc(n[0] * sizeof(float *));	
@@ -52,15 +56,31 @@ int main(void)
 		b[i] = a[i][n[1]];
 	}
 	
+	printf("行列A= [\n");
 	for(i=0; i<n[0]; i++){
+		printf("\t[ ");
 		for(j=0; j<n[1]; j++){
-			printf("%f\t", a[i][j]);
+			printf("%f", a[i][j]);
+			if(j == n[1]-1){
+				printf("  ],");
+			}
+			else{
+				printf("\t");
+			}
 		}	
-		printf("\n");
+		if(i == n[0]-1){
+			printf("\t]");
+		}
+		printf("\n\n");
 	}
 
+	printf("行列B= [\n");
 	for(i=0; i<n[0]; i++){
-		printf("%f\n", b[i]);
+		printf("\t[ %f ],", b[i]);
+		if(i == n[0]-1){
+			printf("\t]");
+		}
+		printf("\n\n");
 	}
 
 	float sum;
