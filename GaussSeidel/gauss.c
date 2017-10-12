@@ -92,6 +92,7 @@ int main(void)
 	do{
 		k++;
 		com[1] = com[0];
+		printf("part%d:\t", k);
 		for(i=0;i<n[0];i++){
 			sum=0.0;
 			
@@ -102,13 +103,22 @@ int main(void)
 			
 			x[i]=(b[i]-sum)/a[i][i];
 			com[0] = x[i]; 
+			printf("x%d=%.3lf\t", i+1, x[i]);
+			if(i == n[0]-1){
+				printf("\n");
+			}
+			if(k >= 100){
+				printf("収束せず\n");
+				return 0;
+			}
 		}
-		printf("part%d: x0=%.3lf\tx1=%.3lf\tx2=%.3lf\tx3=%.3lf\n",k ,x[0],x[1],x[2],x[3]);
 
         }while(com[1] != com[0]);	
+
+	printf("収束に要した回数 : %d\n", k);
 	 
-	for(i=0; i<n[0]; i++){        /* 各データ配列のメモリを解放 */
-                 free(a[i]);
+	for(i=0; i<n[0]; i++){     
+                free(a[i]);
 	}
         free(a);	
 	free(b);
