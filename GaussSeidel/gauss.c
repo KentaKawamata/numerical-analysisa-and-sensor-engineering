@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 #include <stdlib.h>
+#include<math.h>
 
 int main(void)
 {
@@ -103,7 +104,7 @@ int main(void)
 			
 			x[i]=(b[i]-sum)/a[i][i];
 			com[0] = x[i]; 
-			printf("x%d=%.3lf\t", i+1, x[i]);
+			printf("x%d=%.4lf\t", i+1, x[i]);
 			if(i == n[0]-1){
 				printf("\n");
 			}
@@ -113,7 +114,7 @@ int main(void)
 			}
 		}
 
-        }while(com[1] != com[0]);	
+        }while(fabsf(com[1] - com[0]) > 0.0001);	
 
 	printf("収束に要した回数 : %d\n", k);
 	 

@@ -1,3 +1,3 @@
 #! /bin/sh
 
-gcc -o gauss gauss.c
+gcc gauss.c -lm -o gauss
