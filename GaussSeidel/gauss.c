@@ -61,7 +61,7 @@ int main(void)
 	for(i=0; i<n[0]; i++){
 		printf("\t[ ");
 		for(j=0; j<n[1]; j++){
-			printf("%f", a[i][j]);
+			printf("%.4lf", a[i][j]);
 			if(j == n[1]-1){
 				printf("  ],");
 			}
@@ -77,14 +77,31 @@ int main(void)
 
 	printf("行列B= [\n");
 	for(i=0; i<n[0]; i++){
-		printf("\t[ %f ],", b[i]);
+		printf("\t[ %.4lf ],", b[i]);
 		if(i == n[0]-1){
 			printf("\t]");
 		}
 		printf("\n\n");
 	}
 
-	float sum;
+	float sum=0;
+
+	/* 収束判定 */
+	for(i=0; i<n[0]; i++){
+		for(j=0; j<n[1]; j++){
+			if(i != j){
+				sum += a[i][j];
+			}
+		}	
+		if(fabsf(a[i][i]) <= fabsf(sum)){
+			printf("狭義対角優位行列ではないため, 収束しない\n");
+			return 0;
+		}
+		sum = 0;
+	}
+	printf("狭義対角優位行列より, 収束\n");
+
+	sum = 0;
 
 	for(i=0; i<n[1]; i++){
 		x[i] = 0.0;
