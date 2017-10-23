@@ -5,11 +5,11 @@
 
 int main()
 {
+	float **a, *b, *x, *serve[100];
+	int i, j, n[2]={};
 	char buffer[256];
-	char tok[] = "	";	
+	char tok[]="	";
 	char *cor;
-	float **a, *b, *serve[100];
-	int i, j;
 	FILE *fp;
 
 	fp = fopen("gauss_dataset.txt", "r");
@@ -17,8 +17,6 @@ int main()
 		printf("Can not find textfile\n");
 		return 0;
 	}
-	int n[2]={};	
-	float *x;
 
 	for(i=0; i<2; i++){
 		fgets(buffer, 255, fp);
@@ -36,26 +34,23 @@ int main()
 	for(i=0; i<n[0]; i++){
 		a[i] = (float *)malloc((n[1]+1) * sizeof(float));
 	}
-	
-	i=j=0;
-	while((fgets(buffer, 255, fp)) != NULL){		
+
+	for(i=0; i<n[0]; i++){
+		fgets(buffer, 255, fp);
 		cor = strtok(buffer, tok);
-		while(cor != NULL){
+		for(j=0; j<n[1]+1; j++){
 			sscanf(cor, "%f\t", &a[i][j]);
-			j++;
 			cor = strtok(NULL, tok);
 		}
-		i++;
-		j=0;
-	}	
-	fclose(fp);
+	}
+	fclose(fp);	
 
 	substitute_B(a, b, n);
 	express_matrix(a, b, n);
 	judgment_matrix(a, n);
 	substitute_X(x, n);	
 	substitute_serve(serve);	
-	gauss(a, b, x, serve, n);
+	gauss(a, b, x, serve, &n);
 	serve_data(serve);
 	 
 	for(i=0; i<n[0]; i++){     
