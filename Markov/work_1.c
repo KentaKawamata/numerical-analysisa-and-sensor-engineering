@@ -6,17 +6,17 @@ int main(void){
 
 	FILE *fpa, *fpb;
 	char word[256];
-	int i=0, count[122]={0};
+	int i=0, count[26]={0};
 
 	fpa = fopen("work1.txt", "r");	
 
 	while(fgets(word,256,fpa) != NULL){
 		while(word[i] != '\0'){
 			if(word[i] >= 'a' && word[i] <= 'z'){
-				count[word[i]]++;
+				count[word[i]-97]++;
 			}
 			else if(word[i] >= 'A' && word[i] <= 'Z'){
-				count[word[i]]++;
+				count[word[i]+32-97]++;
 			}
 			i++;
 		}
@@ -24,11 +24,11 @@ int main(void){
 	
 	fpb = fopen("work1B.txt", "w");
 	
-	for(i=0; i<122; i++){
-		if((i>=65&&i<=90)||(i>=97&&i<=122)){
-			printf("%c : %d times \n", i, count[i]);
+	for(i=0; i<26; i++){
+		//if(i>=97&&i<=122){
+			printf("%c : %d times \n", i+97, count[i]);
 			fprintf(fpb, "%d:%c\n", count[i], i);
-		}
+		//}
 	}
 	
 	fclose(fpa);
