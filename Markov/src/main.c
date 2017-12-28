@@ -3,6 +3,7 @@
 int main(void){
 
 	countword();
+	randomword();
 	emtropy();
 
 	return 0;

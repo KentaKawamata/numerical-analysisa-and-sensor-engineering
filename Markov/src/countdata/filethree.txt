@@ -268,8 +268,8 @@ l r 7
  re 64
 rep 11
 epl 6
-pla 17
-lac 7
+pla 1
+lac 1
 ace 7
 ce  20
 e t 47
@@ -295,7 +295,7 @@ ork 1
 rks 1
 ks  40
 fro 15
-rom 20
+rom 1
 om  1
 m p 1
 pri 1
