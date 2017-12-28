@@ -36,7 +36,7 @@ void countcharactor(FILE *fp){
 				if(m == n){
 					strcpy(charactor[m].tango, moji);
 					charactor[m].count++;
-					printf("%s\n", charactor[m].tango);
+					//printf("%s\n", charactor[m].tango);
 					n++;
 				}
 				k=0;
@@ -45,7 +45,6 @@ void countcharactor(FILE *fp){
 		}
 		i=0;
 	}
-
 	fpw = fopen("countdata/filecharactor.txt", "w");
 
 	while(charactor[i].count != 0){
@@ -191,12 +190,16 @@ void countword(void){
 	fp = fopen("usethisfile.txt", "r");
 
 	countone(fp);
+	printf("---------one---------------\n");
 	rewind(fp);
 	counttwo(fp);
+	printf("---------two---------------\n");
 	rewind(fp);
 	countthree(fp);
+	printf("---------three---------------\n");
 	rewind(fp);
 	countcharactor(fp);
+	printf("---------charactor---------------\n");
 	fclose(fp);
 	
 	return;
