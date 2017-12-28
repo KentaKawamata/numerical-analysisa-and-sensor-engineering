@@ -268,8 +268,8 @@ l r 7
  re 64
 rep 11
 epl 6
-pla 1
-lac 1
+pla 17
+lac 7
 ace 7
 ce  20
 e t 47
@@ -301,7 +301,7 @@ m p 1
 pri 1
 rin 1
 int 1
-nt  37
+nt  1
 t e 2
 s n 7
  no 41
@@ -781,7 +781,7 @@ pai 6
 aid 1
 id  1
 a f 1
- fe 14
+ fe 1
 fee 12
  ob 5
 obt 5
