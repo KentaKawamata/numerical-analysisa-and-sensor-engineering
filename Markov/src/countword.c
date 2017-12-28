@@ -1,5 +1,61 @@
 #include<stdio.h>
 #include<ctype.h>
+#include<string.h>
+#include<stdlib.h>
+
+void countcharactor(FILE *fp){
+
+	FILE *fpw;
+	char word[256]={}, moji[256]={};
+	int i=0, k=0, m=0, n=0;
+	
+	struct words{
+		char tango[256];
+		int count;
+	};
+	struct words charactor[10000];
+
+	for(i=0; i<256; i++){
+		charactor[i].count=0;
+	}
+
+	while(fgets(word, 256, fp) != NULL){
+		while(word[i] != 0x00){
+			if(isalpha(word[i])){
+				moji[k] = word[i];
+				k++;
+			}
+			else if((isalpha(word[i])==0)&&word[i-1]!=0x20){
+				moji[k]='\0';
+				for(m=0; m<n; m++){
+					if(strcmp(charactor[m].tango, moji)==0){
+						charactor[m].count++;
+						break;
+					}
+				}
+				if(m == n){
+					strcpy(charactor[m].tango, moji);
+					charactor[m].count++;
+					printf("%s\n", charactor[m].tango);
+					n++;
+				}
+				k=0;
+			}
+			i++;
+		}
+		i=0;
+	}
+
+	fpw = fopen("countdata/filecharactor.txt", "w");
+
+	while(charactor[i].count != 0){
+		fprintf(fpw, "%s %d\n", charactor[i].tango, charactor[i].count);
+		i++;
+	}
+	fclose(fpw);
+
+	return;
+}	
 
 void countone(FILE *fp){
 
@@ -140,6 +196,7 @@ void countword(void){
 	rewind(fp);
 	countthree(fp);
 	rewind(fp);
+	countcharactor(fp);
 	fclose(fp);
 	
 	return;

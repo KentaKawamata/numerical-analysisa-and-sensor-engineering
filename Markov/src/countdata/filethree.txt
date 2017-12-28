@@ -295,7 +295,7 @@ ork 1
 rks 1
 ks  40
 fro 15
-rom 20
+rom 1
 om  1
 m p 1
 pri 1
