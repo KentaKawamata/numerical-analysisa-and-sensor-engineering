@@ -1,0 +1,1810 @@
+end 6
+nd  88
+d o 10
+ of 119
+of  109
+f t 48
+ th 245
+the 207
+he  162
+e p 47
+ pr 123
+pro 132
+roj 85
+oje 85
+jec 86
+ect 150
+ct  83
+t g 70
+ gu 81
+gut 94
+ute 109
+ten 100
+enb 94
+nbe 94
+ber 97
+erg 93
+rg  96
+g e 3
+ eb 13
+ebo 14
+boo 14
+ook 14
+ok  6
+k o 12
+e l 15
+ li 43
+lin 12
+inc 18
+nco 3
+col 6
+oln 2
+ln  2
+n c 10
+ co 99
+cou 8
+oun 36
+unt 13
+ntr 9
+try 5
+ry  22
+y i 9
+ in 95
+in  73
+n p 16
+ pi 2
+pic 2
+ict 4
+ctu 5
+tur 9
+ure 6
+res 11
+es  59
+s   56
+  b 9
+ by 20
+by  19
+car 3
+arl 2
+rl  1
+l f 1
+ fr 3
+fra 2
+raz 2
+azi 1
+zie 1
+ier 1
+er  7
+r a 1
+ an 1
+and 1
+d r 1
+ ro 1
+ros 1
+osa 1
+sal 1
+ali 1
+lie 1
+ie  1
+e f 1
+    1
+  e 1
+ en 1
+thi 1
+his 1
+is  1
+s p 1
+k t 1
+  t 1
+s f 1
+ fi 1
+fil 1
+ile 1
+le  1
+e s 1
+ sh 1
+sho 1
+hou 1
+oul 1
+uld 1
+ld  1
+d b 1
+ be 1
+be  1
+e n 1
+ na 1
+nam 1
+ame 1
+med 1
+ed  1
+d   1
+  h 1
+ h  1
+h h 1
+ ht 1
+htm 1
+tm  1
+m o 1
+ or 1
+or  1
+r   1
+h z 1
+ zi 1
+zip 1
+ip  1
+p   1
+s a 1
+d a 1
+ al 1
+all 1
+ll  1
+l a 1
+ as 1
+ass 1
+sso 1
+soc 1
+oci 1
+cia 1
+iat 1
+ate 1
+ted 1
+d f 1
+les 1
+s o 1
+f v 1
+ va 1
+var 1
+ari 1
+rio 1
+iou 1
+ous 1
+us  1
+ fo 1
+for 1
+orm 1
+rma 1
+mat 1
+ats 1
+ts  1
+s w 1
+ wi 1
+wil 1
+ill 1
+l b 1
+fou 1
+und 1
+d i 1
+htt 1
+ttp 1
+tp  1
+  w 1
+ ww 1
+www 1
+ww  1
+w g 1
+g o 1
+org 1
+g   1
+rod 1
+odu 1
+duc 1
+uce 1
+ced 1
+y s 1
+ st 1
+ste 1
+tep 1
+eph 1
+phe 1
+hen 1
+en  1
+n h 1
+ hu 1
+hut 1
+utc 1
+tch 1
+che 1
+hes 1
+eso 1
+son 1
+on  1
+n a 1
+d t 1
+e o 1
+ on 1
+onl 1
+nli 1
+ine 1
+ne  1
+e d 1
+ di 1
+dis 1
+ist 1
+str 1
+tri 1
+rib 1
+ibu 1
+but 1
+roo 1
+oof 1
+ofr 1
+fre 1
+rea 1
+ead 1
+adi 1
+din 1
+ing 1
+ng  1
+g t 1
+ te 1
+tea 1
+eam 1
+am  1
+m a 1
+ at 1
+at  1
+t h 1
+w p 1
+ pg 1
+pgd 1
+gdp 1
+dp  1
+p n 1
+ ne 1
+net 1
+upd 1
+pda 1
+dat 1
+d e 1
+ ed 1
+edi 1
+dit 1
+iti 1
+tio 1
+ion 1
+ons 35
+ns  33
+l r 7
+ re 64
+rep 11
+epl 6
+pla 17
+lac 7
+ace 7
+ce  20
+e t 47
+pre 10
+rev 1
+evi 1
+vio 1
+one 10
+e   45
+ ol 1
+old 1
+e r 1
+ren 1
+ena 1
+cre 1
+eat 8
+ati 79
+tin 1
+e w 1
+ wo 1
+wor 1
+ork 1
+rks 1
+ks  40
+fro 15
+rom 20
+om  1
+m p 1
+pri 1
+rin 1
+int 1
+nt  37
+t e 2
+s n 7
+ no 41
+not 35
+ot  1
+t p 1
+rot 1
+ote 8
+tec 8
+cte 1
+y u 1
+ u  1
+u s 1
+ s  1
+  c 1
+cop 1
+opy 1
+pyr 1
+yri 1
+rig 1
+igh 1
+ght 1
+law 1
+aw  7
+w m 1
+ me 12
+mea 3
+ean 3
+ans 1
+s t 1
+tha 1
+hat 1
+t n 1
+no  1
+o o 1
+ ow 1
+own 1
+wns 1
+ a  1
+a u 3
+ un 25
+uni 17
+nit 17
+ite 37
+d s 1
+sta 1
+tat 1
+tes 1
+s c 1
+ht  1
+t i 1
+n t 1
+ese 1
+se  1
+so  1
+o t 17
+nda 25
+n   1
+  a 1
+d y 1
+ yo 1
+you 1
+ou  1
+u   1
+ ca 1
+can 1
+an  1
+py  1
+y a 1
+d d 1
+te  1
+e i 20
+ it 17
+it  15
+e u 19
+wit 58
+ith 59
+tho 11
+out 22
+ut  23
+ pe 20
+per 1
+erm 1
+rmi 1
+mis 1
+iss 1
+ssi 1
+sio 16
+d w 13
+ pa 39
+pay 6
+ayi 6
+yin 1
+g c 1
+roy 1
+oya 1
+yal 1
+alt 1
+lti 1
+tie 1
+ies 1
+  s 1
+ sp 1
+spe 1
+pec 1
+eci 1
+ial 1
+al  1
+ ru 1
+rul 1
+ule 1
+ se 24
+set 8
+et  10
+t f 15
+ort 25
+rth 10
+th  55
+h i 8
+e g 3
+ ge 4
+gen 7
+ene 6
+ner 10
+era 24
+ral 6
+l t 1
+ter 1
+rms 1
+ms  1
+f u 1
+ us 1
+use 1
+par 1
+art 1
+s l 1
+lic 1
+ice 1
+cen 1
+ens 1
+nse 1
+ ap 1
+app 1
+ppl 1
+ply 1
+ly  1
+y t 1
+ to 1
+to  1
+o c 1
+pyi 1
+g a 15
+uti 20
+g p 1
+ tm 1
+m e 1
+ el 1
+ele 1
+lec 1
+ctr 29
+tro 31
+ron 29
+oni 29
+nic 29
+ic  1
+c w 1
+o p 1
+t t 1
+con 1
+onc 1
+nce 1
+cep 1
+ept 1
+pt  1
+t a 1
+ tr 1
+tra 1
+rad 1
+ade 1
+dem 1
+ema 1
+mar 1
+ark 1
+rk  1
+k   1
+  p 1
+g i 1
+ is 1
+a r 1
+reg 1
+egi 1
+gis 2
+ere 14
+red 1
+d m 1
+ ma 1
+may 1
+ay  1
+y n 1
+t b 7
+sed 10
+ if 21
+if  20
+f y 15
+u c 1
+ ch 1
+cha 1
+har 1
+arg 1
+rge 1
+ge  1
+r t 1
+e e 1
+oks 1
+  u 1
+unl 5
+nle 4
+ess 1
+ss  1
+s y 1
+u r 1
+rec 1
+ece 1
+cei 11
+eiv 9
+ive 38
+cif 3
+ifi 7
+fic 1
+c p 1
+  i 1
+u d 1
+ do 1
+do  1
+o n 1
+t c 1
+e a 1
+any 1
+nyt 1
+yth 1
+hin 1
+g f 1
+r c 1
+opi 1
+pie 1
+com 1
+omp 1
+mpl 20
+lyi 3
+g w 5
+h t 28
+s i 19
+s v 1
+ ve 1
+ver 1
+ery 1
+y e 1
+ ea 1
+eas 1
+asy 1
+sy  1
+y   1
+  y 1
+u m 14
+s e 8
+r n 3
+nea 2
+ear 12
+rly 1
+ny  1
+y p 1
+ pu 6
+pur 2
+urp 2
+rpo 3
+pos 10
+ose 1
+ su 1
+suc 1
+uch 7
+ch  20
+h a 12
+as  13
+ cr 8
+n o 1
+f d 1
+ de 1
+der 19
+eri 6
+riv 5
+iva 3
+vat 3
+tiv 1
+ve  1
+  r 1
+epo 2
+por 11
+rts 5
+erf 6
+rfo 6
+man 1
+anc 1
+ces 1
+sea 3
+arc 16
+rch 17
+h   13
+hey 3
+ey  1
+y m 1
+y b 1
+e m 10
+ mo 9
+mod 2
+odi 3
+dif 3
+fie 1
+ied 1
+d p 1
+nte 17
+d g 2
+ gi 4
+giv 4
+ven 5
+awa 1
+way 1
+y d 1
+pra 1
+rac 2
+act 10
+cti 21
+tic 8
+ica 1
+cal 1
+lly 1
+h e 1
+t l 9
+ la 15
+w   4
+n i 12
+s s 1
+sub 1
+ubj 1
+bje 1
+k l 2
+ es 1
+esp 2
+y c 8
+omm 1
+mme 1
+mer 1
+erc 2
+rci 1
+tar 4
+rt  13
+t   25
+  f 1
+ fu 1
+ful 1
+ull 14
+l l 3
+l p 13
+g l 16
+ple 7
+lea 1
+ase 1
+ad  1
+s b 7
+bef 3
+efo 3
+ore 5
+re  37
+e y 1
+r u 1
+m m 1
+ mi 7
+f p 12
+omo 3
+mot 3
+oti 7
+ree 1
+f e 1
+usi 1
+sin 8
+r d 12
+y o 21
+ ot 12
+oth 18
+her 1
+r w 1
+k a 1
+y w 14
+ wa 9
+ ph 5
+phr 4
+hra 4
+ras 1
+u a 1
+ ag 1
+agr 42
+gre 29
+ee  22
+m l 6
+ av 2
+ava 1
+vai 1
+ail 1
+ila 3
+lab 2
+abl 12
+ble 15
+r o 17
+sec 1
+  g 1
+a   1
+y r 2
+t o 17
+u i 2
+ind 11
+ndi 9
+dic 1
+cat 1
+t y 1
+u h 3
+ ha 9
+hav 6
+ave 6
+nde 8
+ers 1
+rst 1
+tan 1
+ ac 18
+acc 19
+cce 16
+tel 2
+ell 2
+lle 1
+tua 1
+ual 1
+rop 4
+ope 3
+ert 6
+rty 4
+k c 2
+eem 1
+eme 1
+men 1
+ent 55
+o a 7
+ ab 9
+abi 6
+bid 1
+ide 1
+de  1
+e b 1
+ mu 10
+mus 10
+ust 10
+st  21
+ ce 3
+cea 1
+ret 1
+etu 1
+urn 4
+rn  4
+des 8
+est 7
+oy  2
+l c 1
+n y 1
+our 1
+oss 4
+sse 6
+ses 5
+u p 8
+pai 6
+aid 1
+id  1
+a f 1
+ fe 14
+fee 12
+ ob 5
+obt 5
+bta 5
+tai 1
+ain 1
+ini 1
+nin 8
+a c 9
+f o 5
+o b 3
+ bo 5
+bou 1
+ref 1
+efu 1
+fun 10
+m t 5
+rso 4
+r e 8
+nti 10
+tit 1
+ity 1
+ty  1
+o w 5
+ wh 17
+who 4
+hom 1
+m y 1
+ara 1
+rag 1
+gra 1
+rap 14
+aph 14
+ e  23
+ b  3
+b   3
+t m 1
+nly 1
+n e 1
+k b 1
+peo 3
+eop 3
+opl 3
+ ar 32
+are 1
+few 1
+ngs 1
+gs  2
+n d 4
+h m 1
+mos 5
+ost 13
+eve 1
+n w 1
+see 1
+ph  10
+ c  4
+c b 1
+bel 3
+elo 3
+low 1
+ow  1
+a l 1
+ lo 9
+lot 1
+h p 7
+u f 4
+fol 4
+oll 1
+llo 1
+w t 1
+d h 4
+ he 7
+hel 3
+elp 3
+lp  3
+p p 1
+ser 1
+erv 1
+rve 1
+fut 3
+utu 3
+c   4
+lit 20
+rar 1
+ary 1
+chi 1
+hiv 13
+  o 21
+r p 10
+pgl 2
+gla 2
+laf 1
+af  1
+f   1
+mpi 1
+pil 1
+lat 5
+e c 18
+  n 4
+div 1
+ivi 1
+vid 1
+idu 4
+dua 4
+pub 3
+ubl 3
+bli 3
+c d 1
+dom 1
+oma 1
+mai 10
+f a 17
+l w 3
+k i 11
+s u 3
+unp 1
+npr 1
+w i 1
+loc 7
+oca 7
+ we 15
+we  8
+cla 6
+lai 1
+aim 1
+im  1
+ ri 4
+m c 4
+  d 27
+min 6
+isp 6
+spl 1
+lay 1
+g d 1
+ ba 2
+bas 2
+lon 2
+ong 1
+efe 9
+fer 1
+enc 1
+rem 1
+emo 3
+mov 3
+ove 6
+ved 8
+f c 7
+urs 1
+rse 1
+e h 1
+ ho 11
+hop 1
+u w 3
+l s 4
+sup 4
+upp 1
+ppo 1
+o e 1
+y f 7
+eel 4
+ely 4
+sha 5
+pli 10
+lia 1
+ian 1
+r k 1
+ ke 4
+kee 4
+eep 4
+epi 2
+pin 2
+m n 1
+me  1
+asi 1
+sil 1
+ily 2
+y k 3
+sam 1
+t w 9
+its 1
+att 1
+tta 1
+tac 7
+ach 8
+hed 1
+whe 7
+h o 8
+rs  1
+ d  1
+aws 1
+ws  9
+ pl 4
+als 3
+lso 2
+o g 2
+ go 1
+gov 1
+ern 1
+wha 2
+n m 4
+rie 4
+nst 2
+ant 9
+t s 1
+han 1
+ang 1
+nge 2
+ ou 8
+uts 3
+tsi 3
+sid 5
+hec 1
+eck 1
+ck  1
+ur  13
+ ad 7
+add 9
+ddi 6
+dow 1
+wnl 1
+nlo 1
+loa 1
+oad 1
+m w 9
+mak 4
+ake 6
+kes 2
+epr 1
+sen 1
+nta 1
+cer 4
+rni 2
+atu 4
+tus 4
+owi 3
+win 1
+g s 1
+ink 1
+nks 5
+o   5
+imm 2
+dia 2
+ppe 3
+pea 1
+omi 1
+nen 1
+ntl 2
+tly 4
+nev 1
+a p 7
+whi 8
+hic 1
+ich 1
+ars 1
+h w 1
+aye 1
+yed 1
+rme 2
+  v 2
+ vi 1
+vie 1
+iew 1
+ewe 1
+wed 2
+nyo 4
+yon 4
+nyw 1
+ywh 1
+  m 1
+orl 1
+rld 1
+cos 4
+alm 1
+lmo 1
+ric 2
+tso 1
+soe 1
+oev 1
+ aw 1
+r r 6
+ncl 12
+clu 13
+lud 12
+ude 1
+ded 1
+u l 1
+ ll 2
+l h 1
+tex 2
+ext 3
+xts 1
+doe 1
+oes 1
+ont 1
+a n 1
+ po 1
+hol 1
+lde 1
+n b 1
+ees 1
+ges 1
+rov 1
+ovi 1
+idi 1
+a w 1
+k w 1
+eit 1
+req 1
+equ 1
+qui 1
+uir 1
+ire 11
+nts 8
+phs 3
+hs  3
+thr 1
+hro 1
+rou 1
+oug 1
+ugh 1
+gh  1
+n f 1
+h b 1
+bot 1
+ona 1
+nal 1
+ im 5
+imp 4
+mpo 2
+nke 1
+ked 1
+r f 1
+beg 1
+gin 1
+inn 1
+nni 1
+t u 1
+nk  1
+det 1
+eta 1
+rm  1
+m   1
+r i 1
+onv 1
+nve 1
+ bi 1
+bin 1
+ina 1
+nar 1
+mpr 1
+rke 1
+d u 1
+ up 1
+up  1
+non 1
+onp 1
+opr 1
+iet 1
+udi 1
+ord 1
+rd  1
+roc 1
+oce 1
+r h 1
+ hy 1
+hyp 1
+ype 1
+rte 1
+xt  1
+how 1
+owe 1
+wev 1
+n v 1
+van 1
+ani 1
+nil 1
+lla 1
+la  1
+a a 1
+asc 1
+sci 1
+cii 1
+ii  1
+i   1
+off 1
+ffi 1
+ici 1
+rsi 1
+web 1
+eb  1
+b s 1
+ si 1
+sit 1
+ ex 1
+exp 1
+xpe 1
+pen 1
+a m 1
+xpo 1
+rti 1
+upo 1
+pon 1
+n r 1
+que 1
+ues 1
+ori 1
+igi 1
+l   1
+lte 1
+rna 1
+nat 1
+ewi 1
+aso 1
+nab 1
+lty 1
+ gr 1
+gro 1
+rof 1
+ofi 1
+fit 1
+alc 1
+lcu 1
+cul 1
+ula 6
+met 3
+eth 2
+hod 2
+alr 1
+lre 1
+ady 1
+dy  1
+cab 1
+ ta 1
+tax 1
+axe 1
+xes 1
+wne 1
+ bu 1
+has 1
+eed 1
+o d 1
+don 1
+aym 1
+yme 1
+s m 1
+ da 1
+day 1
+ays 1
+ys  1
+eac 1
+h d 1
+h y 1
+epa 1
+  l 1
+ le 4
+leg 3
+ega 1
+gal 1
+iod 1
+c t 1
+ax  1
+x r 1
+rns 1
+ cl 1
+cle 1
+ddr 1
+dre 1
+inf 1
+nfo 1
+abo 1
+t d 6
+mon 1
+ney 1
+ho  1
+tif 1
+ wr 1
+wri 1
+rit 1
+r b 1
+il  1
+f r 1
+eip 1
+ipt 1
+s h 1
+t r 1
+o r 1
+phy 2
+hys 1
+ysi 1
+sic 1
+l m 1
+diu 1
+ium 1
+um  1
+isc 1
+sco 1
+inu 1
+nue 1
+l u 1
+cco 1
+cor 1
+rda 1
+dan 2
+ f  1
+cem 1
+a d 1
+def 1
+fec 1
+s d 1
+cov 1
+o y 1
+l o 1
+wis 1
+ish 1
+sh  1
+r g 1
+oup 1
+p o 1
+f w 3
+iff 1
+ffe 1
+m b 1
+llc 1
+lc  1
+n s 1
+g v 1
+ vo 1
+vol 1
+olu 1
+lun 1
+tee 1
+eer 1
+ em 1
+emp 1
+plo 1
+loy 1
+oye 1
+yee 1
+d c 1
+nsi 1
+rab 1
+eff 1
+ffo 1
+o i 1
+ id 1
+den 1
+ify 1
+fy  1
+ran 1
+nsc 1
+scr 4
+cri 5
+ibe 3
+spi 1
+pit 1
+ ef 1
+sto 1
+tor 1
+cts 1
+lim 1
+imi 1
+mit 1
+let 1
+ete 1
+nac 1
+ccu 1
+cur 4
+ura 1
+rat 6
+orr 1
+rru 1
+rup 1
+upt 1
+ata 1
+ta  1
+rip 1
+pti 1
+ er 1
+err 1
+rro 1
+ror 1
+ors 1
+nfr 1
+fri 1
+gem 1
+dam 7
+ama 7
+mag 1
+age 1
+ged 1
+isk 1
+sk  1
+r m 1
+mpu 1
+put 1
+r v 1
+vir 1
+iru 1
+rus 1
+cod 1
+ode 1
+ann 1
+nno 1
+y y 1
+ eq 1
+uip 1
+ipm 1
+pme 1
+war 1
+arr 1
+rra 1
+nty 1
+scl 1
+ime 1
+exc 1
+xce 3
+esc 1
+bed 1
+k u 1
+iab 4
+bil 6
+ili 8
+sts 3
+die 1
+neg 1
+egl 1
+gli 1
+lig 1
+ige 1
+ br 2
+bre 2
+hos 1
+uto 1
+l n 3
+dir 5
+seq 1
+uen 1
+tia 1
+pun 1
+nci 1
+cid 1
+tal 1
+l d 1
+ ev 1
+u g 1
+sib 1
+ibi 1
+f s 1
+vin 1
+itt 1
+tte 1
+xpl 1
+lan 1
+ana 1
+k f 1
+k m 1
+ieu 1
+eu  1
+u o 1
+k e 1
+cho 1
+hoo 1
+oos 1
+a s 1
+eco 1
+ond 1
+opp 1
+rtu 1
+tun 1
+n l 1
+fur 1
+urt 1
+ op 1
+o f 1
+fix 1
+ix  1
+x t 1
+rob 1
+obl 1
+lem 1
+em  1
+h n 1
+ ki 1
+kin 1
+xpr 1
+g b 1
+f m 1
+tab 1
+itn 1
+tne 1
+nes 1
+ so 1
+som 1
+ome 1
+w d 1
+rta 1
+xcl 1
+lus 1
+r l 1
+ita 1
+ ty 1
+typ 1
+pes 1
+iol 1
+ola 1
+w o 1
+hal 1
+erp 1
+rpr 1
+o m 1
+ke  1
+max 1
+axi 1
+xim 1
+imu 1
+mum 1
+m d 1
+inv 1
+nva 1
+val 1
+lid 1
+une 1
+enf 1
+orc 1
+rce 1
+eab 1
+vis 1
+isi 1
+t v 1
+voi 1
+oid 1
+emn 1
+mni 1
+nif 1
+y v 1
+uct 1
+arm 1
+rml 1
+mle 1
+ris 1
+ise 1
+ctl 1
+cau 1
+aus 1
+ oc 1
+occ 1
+del 1
+eti 1
+m i 1
+ sy 1
+syn 1
+yno 1
+ony 1
+nym 1
+ymo 1
+mou 1
+s r 1
+ada 1
+dab 1
+wid 1
+ety 1
+obs 1
+bso 1
+sol 1
+ole 1
+mid 1
+idd 1
+ddl 1
+dle 1
+d n 1
+new 1
+ew  1
+w c 1
+exi 1
+xis 1
+bec 1
+eca 1
+f h 1
+hun 1
+ndr 1
+eds 1
+ds  1
+wal 1
+alk 1
+lks 1
+f l 1
+lif 1
+ife 1
+fe  1
+fin 1
+nan 1
+e v 1
+sis 1
+nee 1
+m s 1
+goa 1
+oal 1
+ls  1
+nsu 1
+sur 1
+uri 1
+was 1
+ecu 1
+ane 1
+o l 1
+arn 1
+mor 1
+w y 1
+pag 1
+edu 1
+uca 1
+orp 1
+ora 1
+rga 1
+gan 1
+niz 1
+ize 1
+zed 1
+sip 1
+ipp 1
+ppi 1
+pi  1
+i a 1
+x e 1
+exe 1
+xem 1
+mpt 1
+enu 1
+ue  1
+rvi 1
+vic 1
+ ei 1
+ein 1
+fed 1
+ede 1
+x i 1
+num 1
+umb 1
+mbe 1
+x d 1
+tib 1
+ibl 1
+l e 1
+xte 1
+r s 1
+cip 1
+ipa 1
+pal 1
+ fa 1
+fai 1
+air 1
+irb 1
+rba 1
+ban 1
+ank 1
+ala 1
+las 1
+ask 1
+ska 1
+ka  1
+po  1
+box 1
+ox  1
+x   1
+ ak 1
+ak  1
+ sc 1
+sca 1
+gho 1
+ nu 1
+ume 1
+ero 1
+bus 1
+nor 1
+wes 1
+ sa 1
+lak 1
+ ci 1
+cit 1
+ ut 1
+p t 1
+ dr 1
+dr  1
+ego 1
+gor 1
+ory 1
+ewb 1
+wby 1
+hie 1
+ief 1
+ef  1
+xec 1
+cut 1
+cto 1
+ gb 1
+gbn 1
+bne 1
+dep 1
+epe 1
+nds 1
+urv 1
+viv 1
+spr 1
+c s 1
+rry 1
+ncr 1
+d l 1
+mac 1
+ray 1
+utd 1
+tda 1
+ sm 1
+sma 1
+mal 1
+icu 1
+lar 1
+ ir 1
+irs 1
+mmi 1
+egu 1
+gul 1
+ifo 1
+tak 1
+muc 1
+pap 1
+ape 1
+erw 1
+rwo 1
+mee 1
+eet 1
+d k 1
+ep  1
+p u 1
+oli 1
+onf 1
+nfi 1
+fir 1
+irm 1
+o s 1
+hil 1
+e k 1
+ kn 1
+kno 1
+now 1
+f n 1
+roh 1
+ohi 1
+hib 1
+bit 1
+aga 1
+gai 1
+ins 1
+g u 1
+uns 1
+nso 1
+ono 1
+h s 1
+ppr 1
+roa 1
+oac 1
+h u 1
+tef 1
+pte 1
+tem 1
+tre 1
+atm 1
+tme 1
+alo 1
+ sw 1
+swa 1
+wam 1
+amp 1
+mp  1
+taf 1
+aff 1
+ff  1
+b p 1
+ cu 1
+urr 1
+rre 1
+ods 1
+cks 1
+ard 1
+l i 1
+ofe 1
+fes 1
+sor 1
+mic 1
+hae 1
+ael 1
+el  1
+ato 1
+lib 1
+ibr 1
+bra 1
+ ye 1
+yea 1
+loo 1
+etw 1
+two 1
+oft 1
+fte 1
+sev 1
+thu 1
+hus 1
+nec 1
+ssa 1
+sar 1
+ril 1
+p e 1
+ar  1
+pg  1
+fac 1
+aci 1
+cil 1
+g h 1
+o h 1
+w e 1
+ubs 1
+bsc 1
+ews 1
+wsl 1
+sle 1
+ett 1
+hea 1

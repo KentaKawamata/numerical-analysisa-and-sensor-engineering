@@ -55,7 +55,7 @@ int main(void){
 				}while(two[j++][0] != 0);
 			}
 			j=0;
-			if((DA==1&&DB==1) && (DC==1)){
+			if((DB==1&&DA==1) && DC==1){
 				do{
 					if(((three[j][0]==word[i]) && (three[j][1]==word[i+1])) && (three[j][2]==word[i+2])){
 						three[j][3]++;
@@ -107,21 +107,21 @@ int main(void){
 	fpwd = fopen("fileone.txt", "w");
 
 	for(i=0; i<26; i++){
-		fprintf(fpwd, "%c:%d\n", one[i][0], one[i][1]);
+		fprintf(fpwd, "%c %d\n", one[i][0], one[i][1]);
 	}
 	fclose(fpwd);	
 
 	i=0;
 	while(two[i][0] != 0){
 		//printf("%c%c : %d\n", two[i][0], two[i][1], two[i][2]);
-		fprintf(fpwa, "%C%C:%d\n", two[i][0], two[i][1], two[i][2]);
+		fprintf(fpwa, "%C%C %d\n", two[i][0], two[i][1], two[i][2]);
 		i++;
 	}
 	fclose(fpwa);
 
 	i=0;
 	while(three[i][0] != 0){
-		fprintf(fpwb, "%c%c%c:%d\n", three[i][0], three[i][1], three[i][2], three[i][3]);
+		fprintf(fpwb, "%c%c%c %d\n", three[i][0], three[i][1], three[i][2], three[i][3]);
 		i++;
 	}
 	fclose(fpwb);
