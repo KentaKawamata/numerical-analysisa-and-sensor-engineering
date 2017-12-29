@@ -21,6 +21,6 @@ text = text.lower()
 #text = text.encode('utf-8')
 #text = text.decode('ascii')
 
-fp = open('Gutenberg.txt', 'w')
+fp = open('usethisfile.txt', 'w')
 fp.write(text)
 fp.close()

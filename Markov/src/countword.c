@@ -25,7 +25,7 @@ void countcharactor(FILE *fp){
 				moji[k] = word[i];
 				k++;
 			}
-			else if((isalpha(word[i])==0)&&word[i-1]!=0x20){
+			else if((isalpha(word[i])==0)&&word[i-1]!=0x5f){
 				moji[k]='\0';
 				for(m=0; m<n; m++){
 					if(strcmp(charactor[m].tango, moji)==0){
@@ -62,11 +62,11 @@ void countone(FILE *fp){
 	int one[27][2]={{0}}, i=0;
 	char word[256]={};
 
-	one[26][0] = 0x20;
+	one[26][0] = 0x5f;
 	while(fgets(word, 256, fp) != NULL){
 		while(word[i] != 0x00){
 			/*word[i]がスペースだった場合27カウント*/
-			if(word[i] == 0x20){
+			if(word[i] == 0x5f){
 				one[26][1]++;
 			}
 			/*アルファベットだった場合のカウント*/
@@ -104,10 +104,10 @@ void counttwo(FILE *fp){
 					break;
 				}
 				else if(two[j][0]==0){
-					if((isalpha(word[i])==0)&&(word[i]!=0x20)){
+					if((isalpha(word[i])==0)&&(word[i]!=0x5f)){
 						break;
 					}
-					else if((isalpha(word[i+1])==0)&&(word[i+1]!=0x20)){
+					else if((isalpha(word[i+1])==0)&&(word[i+1]!=0x5f)){
 						break;
 					}
 					two[j][0] = word[i];
@@ -151,13 +151,13 @@ void countthree(FILE *fp){
 					break;
 				}
 				else if(three[j][0]==0){
-					if((isalpha(word[i])==0)&&(word[i]!=0x20)){
+					if((isalpha(word[i])==0)&&(word[i]!=0x5f)){
 						break;
 					}
-					else if((isalpha(word[i+1])==0)&&(word[i+1]!=0x20)){
+					else if((isalpha(word[i+1])==0)&&(word[i+1]!=0x5f)){
 						break;
 					}
-					else if((isalpha(word[i+2])==0)&&(word[i+2]!=0x20)){
+					else if((isalpha(word[i+2])==0)&&(word[i+2]!=0x5f)){
 						break;
 					}
 					three[j][0] = word[i];
@@ -190,16 +190,12 @@ void countword(void){
 	fp = fopen("usethisfile.txt", "r");
 
 	countone(fp);
-	printf("---------one---------------\n");
 	rewind(fp);
 	counttwo(fp);
-	printf("---------two---------------\n");
 	rewind(fp);
 	countthree(fp);
-	printf("---------three---------------\n");
 	rewind(fp);
 	countcharactor(fp);
-	printf("---------charactor---------------\n");
 	fclose(fp);
 	
 	return;
