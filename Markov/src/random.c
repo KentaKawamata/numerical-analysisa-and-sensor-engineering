@@ -23,6 +23,7 @@ void randomone(int sum, FILE *fp){
 	fpw = fopen("randomdata/randomone.txt", "w");
 	i=0;
 	while(i<100){
+		if(one[i] == 0x5f) one[i] = 0x20;
 		fprintf(fpw, "%c", one[i]);
 		i++;
 	}
@@ -77,6 +78,8 @@ void randomtwo(int sum, FILE *fp){
 	fpw = fopen("randomdata/randomtwo.txt", "w");
 	i=0;
 	while(i<100){
+		if(two[i] == 0x5f) two[i] = 0x20;
+		if(two[i+1] == 0x5f) two[i+1] = 0x20;
 		fprintf(fpw, "%c%c", two[i], two[i+1]);
 		i+=2;
 	}
@@ -135,6 +138,9 @@ void randomthree(int sum, FILE *fp){
 	fpw = fopen("randomdata/randomthree.txt", "w");
 	i=0;
 	while(i<100){
+		if(three[i] == 0x5f) three[i] = 0x20;
+		if(three[i+1] == 0x5f) three[i+1] = 0x20;
+		if(three[i+2] == 0x5f) three[i+2] = 0x20;
 		fprintf(fpw, "%c%c%c", three[i], three[i+1], three[i+2]);
 		i+=3;
 	}
