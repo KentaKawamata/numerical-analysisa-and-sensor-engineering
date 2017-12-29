@@ -295,13 +295,13 @@ ork 1
 rks 1
 ks  40
 fro 15
-rom 1
+rom 20
 om  1
 m p 1
 pri 1
 rin 1
 int 1
-nt  1
+nt  37
 t e 2
 s n 7
  no 41
@@ -781,7 +781,7 @@ pai 6
 aid 1
 id  1
 a f 1
- fe 1
+ fe 14
 fee 12
  ob 5
 obt 5
@@ -1077,11 +1077,11 @@ xts 1
 doe 1
 oes 1
 ont 1
-a n 1
- po 1
-hol 1
-lde 1
-n b 1
+a n 3
+ po 6
+hol 5
+lde 4
+n b 3
 ees 1
 ges 1
 rov 1
@@ -1094,24 +1094,24 @@ req 1
 equ 1
 qui 1
 uir 1
-ire 11
-nts 8
-phs 3
-hs  3
+ire 1
+nts 1
+phs 1
+hs  1
 thr 1
 hro 1
 rou 1
 oug 1
-ugh 1
-gh  1
-n f 1
+ugh 3
+gh  2
+n f 4
 h b 1
 bot 1
 ona 1
 nal 1
- im 5
-imp 4
-mpo 2
+ im 1
+imp 1
+mpo 1
 nke 1
 ked 1
 r f 1
@@ -1119,7 +1119,7 @@ beg 1
 gin 1
 inn 1
 nni 1
-t u 1
+t u 3
 nk  1
 det 1
 eta 1
@@ -1206,17 +1206,17 @@ fit 1
 alc 1
 lcu 1
 cul 1
-ula 6
-met 3
-eth 2
-hod 2
+ula 1
+met 1
+eth 1
+hod 1
 alr 1
 lre 1
 ady 1
 dy  1
-cab 1
- ta 1
-tax 1
+cab 3
+ ta 8
+tax 7
 axe 1
 xes 1
 wne 1
@@ -1237,8 +1237,8 @@ h d 1
 h y 1
 epa 1
   l 1
- le 4
-leg 3
+ le 1
+leg 1
 ega 1
 gal 1
 iod 1
@@ -1253,7 +1253,7 @@ dre 1
 inf 1
 nfo 1
 abo 1
-t d 6
+t d 1
 mon 1
 ney 1
 ho  1
@@ -1261,7 +1261,7 @@ tif 1
  wr 1
 wri 1
 rit 1
-r b 1
+r b 2
 il  1
 f r 1
 eip 1
@@ -1269,7 +1269,7 @@ ipt 1
 s h 1
 t r 1
 o r 1
-phy 2
+phy 1
 hys 1
 ysi 1
 sic 1
@@ -1277,7 +1277,7 @@ l m 1
 diu 1
 ium 1
 um  1
-isc 1
+isc 8
 sco 1
 inu 1
 nue 1
@@ -1285,7 +1285,7 @@ l u 1
 cco 1
 cor 1
 rda 1
-dan 2
+dan 1
  f  1
 cem 1
 a d 1
@@ -1293,7 +1293,7 @@ def 1
 fec 1
 s d 1
 cov 1
-o y 1
+o y 5
 l o 1
 wis 1
 ish 1
@@ -1301,7 +1301,7 @@ sh  1
 r g 1
 oup 1
 p o 1
-f w 3
+f w 1
 iff 1
 ffe 1
 m b 1
@@ -1309,7 +1309,7 @@ llc 1
 lc  1
 n s 1
 g v 1
- vo 1
+ vo 5
 vol 1
 olu 1
 lun 1
@@ -1333,25 +1333,25 @@ ify 1
 fy  1
 ran 1
 nsc 1
-scr 4
-cri 5
-ibe 3
+scr 1
+cri 1
+ibe 1
 spi 1
 pit 1
  ef 1
 sto 1
 tor 1
 cts 1
-lim 1
-imi 1
-mit 1
-let 1
+lim 8
+imi 8
+mit 11
+let 4
 ete 1
 nac 1
 ccu 1
-cur 4
+cur 1
 ura 1
-rat 6
+rat 1
 orr 1
 rru 1
 rup 1
@@ -1359,7 +1359,7 @@ upt 1
 ata 1
 ta  1
 rip 1
-pti 1
+pti 2
  er 1
 err 1
 rro 1
@@ -1368,16 +1368,16 @@ ors 1
 nfr 1
 fri 1
 gem 1
-dam 7
-ama 7
+dam 1
+ama 1
 mag 1
 age 1
 ged 1
 isk 1
 sk  1
-r m 1
-mpu 1
-put 1
+r m 2
+mpu 4
+put 4
 r v 1
 vir 1
 iru 1

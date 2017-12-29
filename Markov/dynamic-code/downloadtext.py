@@ -9,7 +9,7 @@ article = Document(s).summary()
 text = html2text.html2text(article)
 
 text = text.encode('utf-8')
-text = text.decode('ascii')
+#text = text.decode('ascii')
 #print(text)
 
 fp = open('Gutenberg.txt', 'w')
