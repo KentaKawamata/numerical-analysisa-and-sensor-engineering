@@ -20,14 +20,18 @@ void randomone(int sum, FILE *fp){
 		}
 	}
 
+	printf("------------start 1------------\n\n");
+
 	fpw = fopen("randomdata/randomone.txt", "w");
 	i=0;
 	while(i<100){
 		if(one[i] == 0x5f) one[i] = 0x20;
 		fprintf(fpw, "%c", one[i]);
+		printf("%c", one[i]);
 		i++;
 	}
 	fclose(fpw);
+	printf("\n\n------------end 1------------");
 	return;
 }
 
@@ -75,15 +79,18 @@ void randomtwo(int sum, FILE *fp){
 		}
 	}
 
+	printf("\n------------start 2------------\n\n");
 	fpw = fopen("randomdata/randomtwo.txt", "w");
 	i=0;
 	while(i<100){
 		if(two[i] == 0x5f) two[i] = 0x20;
 		if(two[i+1] == 0x5f) two[i+1] = 0x20;
 		fprintf(fpw, "%c%c", two[i], two[i+1]);
+		printf("%c%c", two[i], two[i+1]);
 		i+=2;
 	}
 	fclose(fpw);
+	printf("\n\n------------end 2------------");
 	return;
 }
 
@@ -135,6 +142,7 @@ void randomthree(int sum, FILE *fp){
 		}
 	}
 
+	printf("\n------------start 3------------\n\n");
 	fpw = fopen("randomdata/randomthree.txt", "w");
 	i=0;
 	while(i<100){
@@ -142,9 +150,11 @@ void randomthree(int sum, FILE *fp){
 		if(three[i+1] == 0x5f) three[i+1] = 0x20;
 		if(three[i+2] == 0x5f) three[i+2] = 0x20;
 		fprintf(fpw, "%c%c%c", three[i], three[i+1], three[i+2]);
+		printf("%c%c%c", three[i], three[i+1], three[i+2]);
 		i+=3;
 	}
 	fclose(fpw);
+	printf("\n\n-----------end 3------------\n");
 	return;
 }
 

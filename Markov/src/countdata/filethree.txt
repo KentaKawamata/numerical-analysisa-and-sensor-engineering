@@ -268,8 +268,8 @@ ave 73
 _to 465
 to_ 384
 _ch 76
-che 1
-hec 1
+che 36
+hec 5
 eck 10
 ck_ 55
 k_t 22
@@ -295,7 +295,7 @@ usi 1
 sin 1
 ing 325
 ng_ 355
-g_t 140
+g_t 1
 k__ 1
 _ti 1
 tit 1
@@ -1408,8 +1408,8 @@ tec 27
 _sw 5
 swi 1
 fan 1
-ann 1
-nni 1
+ann 11
+nni 6
 mov 13
 vem 1
 oup 8

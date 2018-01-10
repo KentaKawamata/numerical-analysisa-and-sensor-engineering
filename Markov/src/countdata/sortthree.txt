@@ -31,7 +31,6 @@ pro 161
 f_t 161
 d_h 157
 ten 148
-g_t 140
 thi 132
 ber 132
 _sa 132
@@ -184,6 +183,7 @@ _hu 37
 _ex 37
 rte 36
 cri 36
+che 36
 ard 36
 __r 36
 urn 35
@@ -384,6 +384,7 @@ fri 11
 eci 11
 eam 11
 ath 11
+ann 11
 _op 11
 w_t 10
 vis 10
@@ -452,6 +453,7 @@ pub 6
 pan 6
 pal 6
 op_ 6
+nni 6
 ngr 6
 lt_ 6
 ia_ 6
@@ -464,6 +466,7 @@ rus 5
 poc 5
 pat 5
 odi 5
+hec 5
 ggi 5
 f_l 5
 egu 5
@@ -1552,7 +1555,6 @@ noc 1
 no_ 1
 nns 1
 nno 1
-nni 1
 nne 1
 nn_ 1
 nmo 1
@@ -2130,7 +2132,6 @@ hem 1
 hel 1
 hee 1
 hed 1
-hec 1
 hbu 1
 hbo 1
 hau 1
@@ -2230,6 +2231,7 @@ gal 1
 gai 1
 gag 1
 g_v 1
+g_t 1
 g_s 1
 g_r 1
 g_p 1
@@ -2646,7 +2648,6 @@ chr 1
 cho 1
 chl 1
 chi 1
-che 1
 ch_ 1
 cgi 1
 cer 1
@@ -2810,7 +2811,6 @@ any 1
 anw 1
 anu 1
 ans 1
-ann 1
 ank 1
 ang 1
 ane 1
