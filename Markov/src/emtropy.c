@@ -87,6 +87,7 @@ void emtropy(void){
 	while(fgetc(fp)!=EOF){
 		count++;
 	}
+	printf("%d\n", count);
 	fclose(fp);
 	printf("-------------start chalculate--------------\n");
 	emtropyone(count);
