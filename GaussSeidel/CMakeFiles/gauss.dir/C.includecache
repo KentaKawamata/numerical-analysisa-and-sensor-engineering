@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kawamata/program/4seme/GaussSeidel/gauss.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+math.h
+-
+
+/home/kawamata/program/4seme/GaussSeidel/gauss_calculate.c
+stdio.h
+-
+math.h
+-
+
+/home/kawamata/program/4seme/GaussSeidel/gauss_express.c
+stdio.h
+-
+
+/home/kawamata/program/4seme/GaussSeidel/gauss_judge.c
+stdio.h
+-
+math.h
+-
+
+/home/kawamata/program/4seme/GaussSeidel/gauss_serve.c
+stdio.h
+-
+
+/home/kawamata/program/4seme/GaussSeidel/gauss_substitute.c
+stdio.h
+-
+

@@ -1,0 +1,3 @@
+/home/kawamata/program/4seme/GaussSeidel/CMakeFiles/rebuild_cache.dir
+/home/kawamata/program/4seme/GaussSeidel/CMakeFiles/edit_cache.dir
+/home/kawamata/program/4seme/GaussSeidel/CMakeFiles/gauss.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/gauss.dir/gauss.c.o CMakeFiles/gauss.dir/gauss_calculate.c.o CMakeFiles/gauss.dir/gauss_express.c.o CMakeFiles/gauss.dir/gauss_judge.c.o CMakeFiles/gauss.dir/gauss_serve.c.o CMakeFiles/gauss.dir/gauss_substitute.c.o  -o gauss -lm 
