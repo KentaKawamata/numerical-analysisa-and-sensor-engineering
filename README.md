@@ -1,11 +1,11 @@
-#Forman
+# Forman
 フォルマント代表周波数抽出時,gnuplotによりグラフにて可視化した際のもの
 
-#GaussSeidel
+# GaussSeidel
 ガウス・ザイデル法の実践
 
-#Markov
+# Markov
 簡便法を用いた自然言語処理体験
 
-#normaldistribution
+# normaldistribution
 正規分布グラフ
